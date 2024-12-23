@@ -1,0 +1,9 @@
+.p1{
+    border: 2px solid aqua ;
+    position: relative;
+    top: 20px;
+}
+.p2{
+    border: 2px solid black ;
+    position: fixed;
+}
